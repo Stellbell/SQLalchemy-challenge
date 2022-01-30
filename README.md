@@ -1,2 +1,0 @@
-# SQLalchemy-challenge
-Homework
